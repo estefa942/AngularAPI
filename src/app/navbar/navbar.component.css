@@ -1,0 +1,27 @@
+.navbar{
+    height: 70px;
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;    
+}
+
+.navbar_input{
+    width: 300px;
+    height: 30px;
+    margin-left: 50%;
+    border-radius: 15px 0 0 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.navbar_button-search{
+    height: 30px;
+    border-radius: 0 15px 15px 0;
+}
+
+.navbar_title{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10%;
+}
