@@ -1,0 +1,14 @@
+.conteiner{
+    background-color: black;
+    height: 100vh;
+    display: flex;
+}
+.section_main-video{
+    flex: 60%;
+    background-color: white;
+}
+
+.list_videos{
+    flex: 40%;
+    background-color: aquamarine;
+}
